@@ -9,20 +9,17 @@ A simple topic based Chat Room with 4 famous topics.<br/>
 4. Ninjas <br/>
 
 
-## Build Setup
+<br/>
+<br/>
 
-``` bash
-# install dependencies
-npm install
+# Chat Page
 
-# serve with hot reload at localhost:8080
-npm run dev
+![](https://github.com/AbdulMalikDev/VueJS-Topic-Based-Chat-Room/blob/master/3.PNG)|
 
-# build for production with minification
-npm run build
+<br/>
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+For the complete Tutorial Visit :
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+[VueJS Tutorial](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
+der).
