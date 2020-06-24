@@ -10,11 +10,10 @@ A simple topic based Chat Room with 4 famous topics.<br/>
 
 
 <br/>
-<br/>
 
 # Chat Page
 
-![](https://github.com/AbdulMalikDev/VueJS-Topic-Based-Chat-Room/blob/master/3.PNG)|
+![](https://github.com/AbdulMalikDev/VueJS-Topic-Based-Chat-Room/blob/master/3.PNG)
 
 <br/>
 
