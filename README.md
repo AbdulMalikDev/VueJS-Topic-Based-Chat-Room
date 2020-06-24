@@ -1,6 +1,13 @@
-# anotherdisaster
+# Topic Based ChatRoom using VueJS
 
 > A Vue.js project
+
+A simple topic based Chat Room with 4 famous topics.<br/>
+1. General <br/>
+2. Gaming <br/>
+3. Music <br/>
+4. Ninjas <br/>
+
 
 ## Build Setup
 
