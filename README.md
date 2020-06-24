@@ -21,4 +21,3 @@ For the complete Tutorial Visit :
 
 
 [VueJS Tutorial](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
-der).
